@@ -54,6 +54,64 @@ Proyecto de análisis de tendencias gastronómicas y turísticas en Mendoza medi
    pip install -r requirements.txt
 4. Ejecutar las celdas paso a paso.
 
+---
+
+## 📊 VISUALIZACIONES  
+
+1. **Categorías prioritarias para 2026**  
+   ![Categorías prioritarias](img/img1.png)
+
+2. **Distribución de enfoques estratégicos**  
+   ![Distribución de enfoques](img/img2.png)
+
+3. **Línea de tiempo evolutiva**  
+   ![Línea de tiempo](img/img3.png)
+
+4. **Análisis de relevancia por año**  
+   ![Relevancia por año](img/img4.png)
+
+---
+
+## 📈 5 FORTALEZAS IDENTIFICADAS  
+
+1. 🏆 **Reconocimientos globales**  
+   - 7 Estrellas Michelin (2023)  
+   - 6 Llaves Michelin Hoteles (2025)  
+   - Gala MICHELIN en Mendoza  
+
+2. 🌍 **Eventos internacionales**  
+   - ITB Berlín 2025  
+   - *A Taste of Excellence* Londres  
+   - Cumbre Enoturismo Sostenible  
+
+3. 💼 **Ecosistema de inversión**  
+   - 29 menciones a economía mendocina  
+   - 18 oportunidades de inversión  
+   - Sinergia turismo-gastronomía  
+
+4. 📅 **Tendencia ascendente**  
+   - Crecimiento constante 2023–2025  
+   - 12 noticias de alta relevancia en 2026  
+   - Proyecciones futuras claras  
+
+5. 🍷 **Posicionamiento premium**  
+   - Enoturismo como eje central  
+   - 17 eventos internacionales  
+   - Turismo de lujo consolidado  
+
+---
+
+## ⚠️ 5 DEBILIDADES A SUPERAR  
+
+1. 📍 Concentración geográfica en Luján de Cuyo  
+2. 🎯 Dispersión temática (17 categorías)  
+3. 🌐 Dependencia de eventos puntuales  
+4. 📱 Baja presencia digital orgánica  
+5. 🎪 Sobrerrepresentación institucional  
+
+---
+
+
 ### 📎 Enlaces
 [Google Colab Notebook](https://colab.research.google.com/drive/15VEFAHxpSz8w2UiJHRQ5NxSHfwzLHp0g?pli=1#scrollTo=IVHkRlx9tRsp
 )

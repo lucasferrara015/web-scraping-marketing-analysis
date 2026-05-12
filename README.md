@@ -118,4 +118,4 @@ Proyecto de análisis de tendencias gastronómicas y turísticas en Mendoza medi
 
 [Linkedin Post](https://www.linkedin.com/posts/lucasferrara-data-comunicacion_comunicacionestrategica-datascience-marketinggastronomico-activity-7407026801438257152-4huD?utm_source=share&utm_medium=member_desktop&rcm=ACoAAE2vs10BG7n6y94TVNX1YerMrlQq3eEUoYY)
 ### 👨‍💻 Autor, Lucas Ferrara  
-Licenciado en Comunicación Social | Data Analyst | Python & SQL
+**Licenciado en Comunicación Social | Data Analyst | Python & SQL**

@@ -11,7 +11,8 @@ Proyecto de análisis de tendencias gastronómicas y turísticas en Mendoza medi
 - BeautifulSoup  
 - pandas  
 - matplotlib  
-- Google Colab  
+- Google Colab
+- SQLALCHEMY
 
 ---
 

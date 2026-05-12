@@ -55,7 +55,7 @@ Proyecto de análisis de tendencias gastronómicas y turísticas en Mendoza medi
 4. Ejecutar las celdas paso a paso.
 
 ### 📎 Enlaces
-Google Colab Notebook
-
+[Google Colab Notebook](https://colab.research.google.com/drive/15VEFAHxpSz8w2UiJHRQ5NxSHfwzLHp0g?pli=1#scrollTo=IVHkRlx9tRsp
+): 
 ### 👨‍💻 Autor, Lucas Ferrara  
 Licenciado en Comunicación Social | Data Analyst | Python & SQL

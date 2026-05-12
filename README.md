@@ -59,16 +59,16 @@ Proyecto de análisis de tendencias gastronómicas y turísticas en Mendoza medi
 ## 📊 VISUALIZACIONES  
 
 1. **Categorías prioritarias para 2026**  
-   ![Categorías prioritarias](img/img1.png)
+   ![Categorías prioritarias](Img/Img1.png)
 
 2. **Distribución de enfoques estratégicos**  
-   ![Distribución de enfoques](img/img2.png)
+   ![Distribución de enfoques](Img/Img2.png)
 
 3. **Línea de tiempo evolutiva**  
-   ![Línea de tiempo](img/img3.png)
+   ![Línea de tiempo](Img/Img3.png)
 
 4. **Análisis de relevancia por año**  
-   ![Relevancia por año](img/img4.png)
+   ![Relevancia por año](Img/Img4.png)
 
 ---
 
